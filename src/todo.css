@@ -1,0 +1,12 @@
+.todo {
+    border:1px solid black;
+    transition: ease-in-out .75s all;
+    max-width: 70vw;
+    word-wrap: anywhere;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.complete {
+    opacity: .30;
+}
